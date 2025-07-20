@@ -11,3 +11,7 @@ Created for internal analysis and situational awareness.
 
 📊 Tool: Microsoft Power BI  
 📁 File: Kenya_Refugee_Data_Visualization_2019_2024.pbix
+
+## 📊 Data Source
+
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/...). All rights and credits belong to the original data providers.
